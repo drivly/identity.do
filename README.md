@@ -1,4 +1,4 @@
-# Idendity.do - Identity Management API 
+# Identity.do - Identity Management API 
 
 Explore the API at: <https://identity.do/api>
 
